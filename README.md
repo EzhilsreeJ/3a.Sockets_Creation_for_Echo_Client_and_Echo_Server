@@ -80,11 +80,9 @@ if __name__ == "__main__":
 ## OUPUT
 
 
+![Screenshot 2024-03-11 154148](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/d5828e39-4a76-44fb-a3ff-551da3e7bac6)
 
-![Screenshot 2024-03-11 154038](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/be8f86cf-3cab-44c4-be9a-e46b5b2dd365)
-
-![Screenshot 2024-03-11 153813](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/e64c4bd7-42f2-4d44-b4e3-20db9987914d)
-
+![Screenshot 2024-03-11 154203](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/0ca83e58-c352-4bb8-8b45-e88b3cf9419d)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 

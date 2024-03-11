@@ -83,9 +83,9 @@ if __name__ == "__main__":
 ```
 ## OUPUT
 
-
+## SERVER
 ![Screenshot 2024-03-11 154148](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/d5828e39-4a76-44fb-a3ff-551da3e7bac6)
-
+## CLIENT
 ![Screenshot 2024-03-11 154203](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/0ca83e58-c352-4bb8-8b45-e88b3cf9419d)
 
 ## RESULT

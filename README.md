@@ -9,9 +9,11 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
-## Echo Server
+
 
 ```
+Echo Server:
+
 import socket
 
 def start_echo_server():
@@ -46,8 +48,10 @@ def start_echo_server():
 if __name__ == "__main__":
     start_echo_server()
 ```
-## Echo Client
+
 ```
+Echo Client :
+
 import socket
 
 def start_echo_client():

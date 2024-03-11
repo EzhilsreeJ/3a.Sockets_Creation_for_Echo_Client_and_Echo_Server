@@ -78,7 +78,8 @@ if __name__ == "__main__":
     start_echo_client()
 ```
 ## OUPUT
-![Screenshot 2024-03-11 153723](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/a90c4833-3b3b-49ea-9092-ee833b35d4e8)
+
+![Screenshot 2024-03-11 153921](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/e8f8a539-26b1-4a5a-9c94-7f44a637a4ca)
 
 ![Screenshot 2024-03-11 153813](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/e64c4bd7-42f2-4d44-b4e3-20db9987914d)
 

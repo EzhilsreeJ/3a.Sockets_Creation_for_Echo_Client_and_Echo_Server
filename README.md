@@ -79,7 +79,9 @@ if __name__ == "__main__":
 ```
 ## OUPUT
 
-![Screenshot 2024-03-11 153921](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/e8f8a539-26b1-4a5a-9c94-7f44a637a4ca)
+
+
+![Screenshot 2024-03-11 154038](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/be8f86cf-3cab-44c4-be9a-e46b5b2dd365)
 
 ![Screenshot 2024-03-11 153813](https://github.com/EzhilsreeJ/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870412/e64c4bd7-42f2-4d44-b4e3-20db9987914d)
 
